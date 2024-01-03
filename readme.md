@@ -1,4 +1,4 @@
-# Research Projects
+# Main research projects
 
 ### An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction (AAAI 2024)
 - **Code:** [GitHub Repository](https://github.com/urchade/ATG)
