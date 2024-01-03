@@ -4,7 +4,7 @@
 - **Code:** [GitHub Repository](https://github.com/urchade/ATG)
 - **Paper:** [arXiv Paper](https://arxiv.org/abs/2401.01326)
 
-### Filtered Semi-Markov CRF (EMNLP Finding 2023)
+### Filtered Semi-Markov CRF (EMNLP Findings 2023)
 - **Code:** [GitHub Repository](https://github.com/urchade/Filtered-Semi-Markov-CRF)
 - **Paper:** [ACL Anthology Paper](https://aclanthology.org/2023.findings-emnlp.17/)
 
