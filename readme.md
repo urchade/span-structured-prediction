@@ -11,3 +11,4 @@
 ### GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer (Preprint 2023)
 - **Code:** [GitHub Repository](https://github.com/urchade/GLiNER)
 - **Paper:** [arXiv Paper](https://arxiv.org/abs/2311.08526)
+- **Demo:** https://colab.research.google.com/drive/1mhalKWzmfSTqMnR0wQBZvt9-ktTsATHB?usp=sharing
